@@ -1,5 +1,5 @@
 package Collection;
-public class newfile {
+public class newfile1 {
 
 	public void login()
 	{
